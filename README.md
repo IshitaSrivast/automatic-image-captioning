@@ -11,3 +11,5 @@ The model has two inputs.
 The CNN and RNN are combined using add() function.
 The RNN based attention layers are added.
 Tanh activation used, tanh is specifically used for the attention layers
+
+To read more, visit my medium blog https://medium.com/@20cs3034/attention-layers-for-automatic-image-captioning-37efbab1318
